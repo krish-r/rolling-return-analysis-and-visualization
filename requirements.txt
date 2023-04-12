@@ -1,0 +1,18 @@
+# Libraries
+numpy
+pandas
+openpyxl # excel dependency
+
+# matplotlib
+plotly
+kaleido # static image export (plotly optional)
+
+# vscode dependencies
+ipykernel # dependency for jupyter notebook
+notebook # dependency for using plotly in jupyter notebook
+ipywidgets # dependency for using plotly in jupyter notebook
+
+# formatter and linter
+black
+pylint
+
